@@ -1,5 +1,6 @@
 #bg{
-  background-color: #464e47;
+   background-image:url(bg/blob-scene-haikei.png) ;
+  background-size:cover;
    height: 100vh;
    color: white;
 }
